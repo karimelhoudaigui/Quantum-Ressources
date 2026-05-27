@@ -1,8 +1,4 @@
-# Quantum-Ressources
 
-C’est parfait. Pour que ton dépôt soit une véritable référence, il doit être structuré de manière académique mais accessible, en couvrant à la fois la **théorie de l'information** et les **implémentations physiques**.
-
-Voici une proposition complète pour ton fichier **README.md**, rédigée avec rigueur.
 
 ---
 
